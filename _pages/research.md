@@ -29,7 +29,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/fiscal_policy.jpeg" class="research-thumb" alt="Fiscal Policy">
 <div class="research-body">
 <h4 class="research-title">Fiscal Policy</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<p class="research-desc">Fiscal policy studies how governments use taxation, spending, borrowing, and transfers to influence economic activity, redistribute resources, provide public goods, stabilize business cycles, and support sustainable growth.</p>
 </div>
 </div>
 
