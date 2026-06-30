@@ -5,8 +5,6 @@ sitemap: false
 permalink: /media/
 ---
 
-## Blog
-
 {% if site.posts.size > 0 %}
 <div class="section-card" markdown="0">
 {% for post in site.posts %}
