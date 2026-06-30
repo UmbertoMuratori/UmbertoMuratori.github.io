@@ -42,7 +42,7 @@ nav_pages:
   - name: teaching
   - name: presentations
   - name: media
-  - name: coauthors
+  #- name: coauthors
   #- name: software
   #- name: team
   #- name: blogs
