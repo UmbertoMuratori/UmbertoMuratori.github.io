@@ -34,7 +34,10 @@ permalink: /presentations/
 
 ## Conferences
 <ul>
-<li></li>
+<li> European University Institute Alumni Conference (2025) </li>
+<li> Max-Weber Programme June Conference - European University Institute (2023) </li>
+<li> Equitable Growth Grantee Conference (2022) </li>
+<li> Sustainability and Development Conference - University of Michigan (2018) </li>  
 </ul>
 
 </div>
