@@ -38,11 +38,11 @@ analytics:
 nav_pages:
   - name: about
   - name: research
-  - name: publications
-  - name: teaching
-  - name: presentations
-  - name: media
-  - name: coauthors
+  #- name: publications
+  #- name: teaching
+  #- name: presentations
+  #- name: media
+  #- name: coauthors
   #- name: software
   #- name: team
   #- name: blogs
