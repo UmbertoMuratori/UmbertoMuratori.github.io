@@ -12,12 +12,12 @@ permalink: /publications/
 <div class="section-card" id="pubList">
 
 ## Journal Articles
-<h3>Journal Articles</h3>
+#<h3>Journal Articles</h3>
 
 {% bibliography --query @article %}
 
 ## Working Papers
-<h3>Working Papers</h3>
+#<h3>Working Papers</h3>
 
 {% bibliography --query @unpublished %}
 
