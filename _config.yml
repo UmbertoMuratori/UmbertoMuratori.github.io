@@ -41,8 +41,8 @@ nav_pages:
   - name: publications
   - name: teaching
   - name: presentations
-  #- name: media
-  #- name: coauthors
+  - name: media
+  - name: coauthors
   #- name: software
   #- name: team
   #- name: blogs
