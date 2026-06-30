@@ -5,7 +5,6 @@ sitemap: false
 permalink: /teaching/
 ---
 
-## Teaching
 
 <div class="section-card">
 <ul>
