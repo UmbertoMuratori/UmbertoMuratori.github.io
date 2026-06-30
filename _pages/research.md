@@ -10,7 +10,7 @@ permalink: /research/
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/macroeconomics.jpeg" class="research-thumb" alt="Macroeconomics">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/macroeconomics.png" class="research-thumb" alt="Macroeconomics">
 <div class="research-body">
 <h4 class="research-title">Macroeconomics</h4>
 <p class="research-desc">Macroeconomics studies the economy as a whole, focusing on growth, inflation, unemployment, interest rates, fiscal and monetary policy, and how shocks affect aggregate outcomes, economic stability, and long-run prosperity.</p>
