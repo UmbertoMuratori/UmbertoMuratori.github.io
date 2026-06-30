@@ -21,7 +21,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/firm_dynamics.jpeg" class="research-thumb" alt="Firm Dynamics">
 <div class="research-body">
 <h4 class="research-title">Firm Dynamics</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<p class="research-desc">Firm dynamics studies how firms enter, grow, innovate, compete, shrink, and exit over time, shaping productivity, employment, market structure, resource allocation, and aggregate economic growth.</p>
 </div>
 </div>
 
