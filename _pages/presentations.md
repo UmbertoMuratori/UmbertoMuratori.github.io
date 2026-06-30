@@ -34,14 +34,3 @@ permalink: /presentations/
 </ul>
 
 </div>
-
-
-
-<h3>Seminars</h3>
-
-{% bibliography --query @incollection[keywords ^= invited] %}
-
-<h3>Conferences</h3>
-
-{% bibliography --query @incollection[keywords != invited] %}
-</div>
