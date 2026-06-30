@@ -15,22 +15,26 @@ permalink: /presentations/
 
 ## Seminars
 <ul>
-<li>Macroeconomics II (Undergraduate) - Universidad del Rosario</li>
-<li>Macroeconomics II (Undergraduate) - Universidad del Rosario</li>
-<li>Macroeconomic Policy (Master in Public Policy) - Universidad del Rosario</li>
-<li>Firm Dynamics and Innovation (Ph.D.) - European University Institute</li>
-<li>Economic Statistics (Undergraduate) - Georgetown University</li>
-</ul>
+<li> University of Pisa (2022) </li>
+<li> University of Florence (2022) </li>
+<li> University of Siena (2022) </li>
+<li> European University Institute (2021) </li>
+<li> Federal Reserve Board (2021) </li>
+<li> University of Pompeu Fabra (2021) </li>
+<li> University of Georgia (2021) </li>
+<li> Bank of Chile (2021) </li>
+<li> Universidad San Francisco de Quito (2021) </li>
+<li> Universidad de Los Andes </li>
+<li> Universidad del Rosario (2021) </li>
+<li> Georgetown University (2020) </li>
+<li> Washington Center for Equitable Growth (2020) </li>
+</ul> 
 
 
 
 ## Conferences
 <ul>
-<li>Macroeconomics II (Undergraduate) - Universidad del Rosario</li>
-<li>Macroeconomics II (Undergraduate) - Universidad del Rosario</li>
-<li>Macroeconomic Policy (Master in Public Policy) - Universidad del Rosario</li>
-<li>Firm Dynamics and Innovation (Ph.D.) - European University Institute</li>
-<li>Economic Statistics (Undergraduate) - Georgetown University</li>
+<li></li>
 </ul>
 
 </div>
