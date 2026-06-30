@@ -37,6 +37,6 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/laboreconomics.png" class="research-thumb" alt="Labor Economics">
 <div class="research-body">
 <h4 class="research-title">Labor Economics</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<p class="research-desc">Labor economics studies how workers, firms, and institutions interact in labor markets, shaping employment, wages, inequality, skills, productivity, working conditions, and the effects of policies on economic opportunities.</p>
 </div>
 </div>
