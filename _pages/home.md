@@ -15,6 +15,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Labor Economics</a>
 </div>
 
+<!
 #<div class="callout callout-success" markdown="0">
 #<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
 #<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing #consequences for the physics of elementary particles.</p>
@@ -24,7 +25,7 @@ permalink: /
 #<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
 #<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
 #</div>
-
+!>
 ### About me
 
 I am an Assistant Professor in the School of Economics at Universidad del Rosario. I am a macroeconomist working at the intersection of empirical research and structural/computational analysis.
