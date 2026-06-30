@@ -4,8 +4,13 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+    - "(2023) Max Weber Post-doctoral Fellow, European University Institute"
+    - "(2021) Ph.D. Economics, Georgetown University"
+    - "(2012) M.Sc. Economics, University of Bonn"
+    - "(2009) B.Sc. European Economics, University of Tor Vergata"
+    
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+    - "(2023) Max Weber Post-doctoral Fellow, European University Institute"
+    - "(2021) Ph.D. Economics, Georgetown University"
+    - "(2012) M.Sc. Economics, University of Bonn"
+    - "(2009) B.Sc. European Economics, University of Tor Vergata"
