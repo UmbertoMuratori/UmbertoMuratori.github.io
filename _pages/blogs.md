@@ -1,5 +1,5 @@
 ---
-title: "Mefdia"
+title: "Media"
 layout: gridlay
 sitemap: false
 permalink: /media/
