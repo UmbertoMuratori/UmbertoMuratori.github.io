@@ -13,7 +13,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/macroeconomics.jpeg" class="research-thumb" alt="Macroeconomics">
 <div class="research-body">
 <h4 class="research-title">Macroeconomics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<p class="research-desc">Macroeconomics studies the economy as a whole, focusing on growth, inflation, unemployment, interest rates, fiscal and monetary policy, and how shocks affect aggregate outcomes, economic stability, and long-run prosperity.</p>
 </div>
 </div>
 
