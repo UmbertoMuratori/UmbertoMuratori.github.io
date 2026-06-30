@@ -18,7 +18,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/firm_dynamics.jpeg" class="research-thumb" alt="Firm Dynamics">
 <div class="research-body">
 <h4 class="research-title">Firm Dynamics</h4>
 <p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
@@ -26,7 +26,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/fiscal_policy.jpeg" class="research-thumb" alt="Fiscal Policy">
 <div class="research-body">
 <h4 class="research-title">Fiscal Policy</h4>
 <p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
@@ -34,7 +34,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/labor_economics.jpeg" class="research-thumb" alt="Labor Economics">
 <div class="research-body">
 <h4 class="research-title">Labor Economics</h4>
 <p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
