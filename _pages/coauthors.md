@@ -1,8 +1,8 @@
 ---
-title: "Team"
+title: "Coauthors"
 layout: gridlay
 sitemap: false
-permalink: /team/
+permalink: /coauthors/
 ---
 
 ## Team
