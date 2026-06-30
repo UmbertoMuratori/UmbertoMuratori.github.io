@@ -17,11 +17,3 @@ permalink: /publications/
 <h3>Journal Articles</h3>
 
 {% bibliography --query @article %}
-
-
-<! --
-<h3>Refereed Conference Proceedings</h3>
-
-{% bibliography --query @inproceedings %}
-</div>
--->
