@@ -18,7 +18,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/firmdynamics.png" class="research-thumb" alt="Firm Dynamics">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/firm_dynamics.png" class="research-thumb" alt="Firm Dynamics">
 <div class="research-body">
 <h4 class="research-title">Firm Dynamics</h4>
 <p class="research-desc">Firm dynamics studies how firms enter, grow, innovate, compete, shrink, and exit over time, shaping productivity, employment, market structure, resource allocation, and aggregate economic growth.</p>
@@ -26,7 +26,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/fiscalpolicy.png" class="research-thumb" alt="Fiscal Policy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/fiscal_policy.png" class="research-thumb" alt="Fiscal Policy">
 <div class="research-body">
 <h4 class="research-title">Fiscal Policy</h4>
 <p class="research-desc">Fiscal policy studies how governments use taxation, spending, borrowing, and transfers to influence economic activity, redistribute resources, provide public goods, stabilize business cycles, and support sustainable growth.</p>
@@ -34,7 +34,7 @@ permalink: /research/
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/laboreconomics.png" class="research-thumb" alt="Labor Economics">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/labor_economics.png" class="research-thumb" alt="Labor Economics">
 <div class="research-body">
 <h4 class="research-title">Labor Economics</h4>
 <p class="research-desc">Labor economics studies how workers, firms, and institutions interact in labor markets, shaping employment, wages, inequality, skills, productivity, working conditions, and the effects of policies on economic opportunities.</p>
