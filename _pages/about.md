@@ -53,6 +53,7 @@ permalink: /about/
 </div>
 {% endif %}
 
+<!--
 {% if site.data.people %}
 <div class="section-card">
 <h3>Students and Mentoring</h3>
@@ -63,7 +64,9 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
 
+<!--
 {% if site.data.funders %}
 <div class="section-card">
 <h4>Sponsors</h4>
@@ -74,3 +77,4 @@ permalink: /about/
 </div>
 </div>
 {% endif %}
+-->
