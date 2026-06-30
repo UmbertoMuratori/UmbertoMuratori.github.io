@@ -1,11 +1,11 @@
 ---
-title: "Talks"
+title: "Presentations"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /presentations/
 ---
 
-## Talks
+## Presentations
 
 <div class="section-card" id="pubList">
 <h3>Invited Talks</h3>
