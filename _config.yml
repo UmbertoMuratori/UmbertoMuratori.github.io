@@ -12,12 +12,12 @@ photo: Muratori_Picture.png  # place your photo in images/
 # ============================================================
 links:
   linkedin: "https://www.linkedin.com/in/umberto-muratori-1ba2576a" # https://www.linkedin.com/in/umberto-muratori-1ba2576a/?skipRedirect=true
-  google_scholar: "https://scholar.google.com/citations?user=I7FrboMAAAAJ&hl=en"
-  github: "https://github.com/UmbertoMuratori"
-  researchgate: "https://www.researchgate.net/profile/Umberto-Muratori"
+  #google_scholar: "https://scholar.google.com/citations?user=I7FrboMAAAAJ&hl=en"
+  #github: "https://github.com/UmbertoMuratori"
+  #researchgate: "https://www.researchgate.net/profile/Umberto-Muratori"
   #orcid: ""
   twitter: "https://x.com/UmbertoMuratori"
-  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+  cv: "papers/Muratori_CV.pdf"  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
 # STEP 3: Site Settings
