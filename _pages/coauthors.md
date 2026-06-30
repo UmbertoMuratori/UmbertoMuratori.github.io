@@ -25,6 +25,3 @@ permalink: /coauthors/
 {% endfor %}
 </div>
 {% endif %}
-
-</div>
-{% endif %}
