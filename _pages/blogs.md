@@ -1,8 +1,8 @@
 ---
-title: "Blog"
+title: "Mefdia"
 layout: gridlay
 sitemap: false
-permalink: /blogs/
+permalink: /media/
 ---
 
 ## Blog
