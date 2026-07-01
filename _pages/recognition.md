@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Recognition"
 layout: gridlay
 sitemap: false
-permalink: /about/
+permalink: /recognition/
 ---
 
 
@@ -19,7 +19,7 @@ permalink: /about/
 
 {% if site.data.awards %}
 <div class="section-card">
-<h3>Awards</h3>
+<h3>Selected Awards</h3>
 <ul>
 {% for award in site.data.awards %}
 <li>{{ award.name | replace: "-","&#8211;" }}</li>
