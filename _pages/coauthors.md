@@ -14,7 +14,7 @@ permalink: /coauthors/
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="team-photo" alt="{{ member.name }}" loading="lazy">
 <h4 class="team-name">{{ member.name }}</h4>
 <h4 class="team-position">{{ member.position }}</h4>
-<h4 class="team-affiliation">{{ member.affiliation }}</h4>
+<p class="team-affiliation">{{ member.affiliation }}</p>
 <div class="team-links">
 {% if member.email %}<a href="mailto:{{ member.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
 {% if member.website %}<a href="{{ member.website }}" class="icon-link" title="Website"><i class="fa-solid fa-house"></i></a>{% endif %}
