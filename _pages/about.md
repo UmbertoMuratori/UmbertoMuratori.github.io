@@ -5,8 +5,7 @@ sitemap: false
 permalink: /about/
 ---
 
-## About
-
+<!--
 <div class="section-card">
 <div class="pi-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="pi-photo" alt="{{ site.name }}" loading="lazy">
@@ -33,6 +32,7 @@ permalink: /about/
 </div>
 </div>
 </div>
+-->
 
 {% if site.data.grants %}
 <div class="section-card">
