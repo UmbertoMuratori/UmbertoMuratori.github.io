@@ -23,4 +23,4 @@ My research focuses on firm dynamics, fiscal policy, and labor economics. Across
 
 Before joining the Universidad del Rosario, I was a Max-Weber Post-doctoral Fellow at the European University Institute (EUI). I hold a Ph.D. in Economics from Georgetown University (2021), a M.Sc. in Economics from Bonn University (2012), and a B.Sc. in European Economics from Tor Vergata University (2009).
 
-For more information about my career trajectory, research, and professional activities, please see my CV.
+For more information about my career trajectory, research, and professional activities, please see my [CV](papers/Muratori_CV.pdf).
