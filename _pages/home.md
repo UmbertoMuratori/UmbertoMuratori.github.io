@@ -15,8 +15,6 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Labor Economics</a>
 </div>
 
-### About me
-
 I am an Assistant Professor in the School of Economics at Universidad del Rosario. I am a macroeconomist working at the intersection of empirical research and structural/computational analysis.
 
 My work combines detailed microdata, causal inference, and quantitative models to study how firms, workers, and markets respond to economic change and policy interventions. I use microdata to uncover new facts, document economic trends, and estimate causal relationships. I then develop and apply structural models to evaluate alternative policy scenarios and understand their broader economic implications.
