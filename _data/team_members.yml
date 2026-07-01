@@ -8,6 +8,31 @@
   position: Senior Economist 
   affiliation: Bank of Canada
 
+- name: Santiago Caicedo
+  photo: team/Santiago_Caicedo.jpeg
+  position: Associate Professor
+  affiliation: Northeastern University
+  
+- name: Ammar Farooq
+  photo: team/Ammar_Farooq.jpeg
+  position: Economist
+  affiliation: Uber
+
+- name: Carl-Wolfram Horn
+  photo: team/Wolfram_Horn.jpeg
+  position: Postodctoral Researcher
+  affiliation: Centre for Central Banking, Frankfurt School
+
+- name: Marek Ignaszak
+  photo: team/Marek_Ignaszak.jpeg
+  position: Economic Researcher
+  affiliation: European Commission
+  
+- name: Alejandro Izquierdo
+  photo: team/Alejandro_Izquierdo.jpeg
+  position: Deputy Director, Research Department
+  affiliation: Inter-American Development Bank
+  
 - name: Pedro Juarros
   photo: team/Pedro_Juarros.jpeg
   position: Economist
@@ -18,7 +43,24 @@
   position: Professor
   affiliation: Georgetown University
 
-- name: Alejandro Izquierdo
-  photo: team/Alejandro_Izquierdo
-  position: Deputy Director, Research Department
-  affiliation: Inter-American Development Bank
+- name: Jimena LLopis
+  photo: team/Jimena_LLopis.jpeg
+  position: Associate Director
+  affiliation: Save the Children International
+
+- name: Juan Camilo Medellin
+  photo: team/JuanCamilo_Medellin.jpeg
+  position: Researcher
+  affiliation: Banco de la República - Colombia
+  
+- name: Jose Juan Ruiz
+  photo: team/JJ_Ruiz.jpeg
+  position: President
+  affiliation: Real Instituto Elcano
+  
+- name: Daniel Valderrama
+  photo: team/Daniel_Valderrama.jpeg
+  position: Economist
+  affiliation: World Bank
+
+
