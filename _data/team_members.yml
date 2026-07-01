@@ -9,13 +9,16 @@
   affiliation: Bank of Canada
 
 - name: Pedro Juarros
-  photo: team/albert-hibbs.svg
-  info: PhD Student, Quantum Mechanics
+  photo: team/Pedro_Juarros.jpeg
+  position: Economist
+  affiliation: International Monetary Fund
 
 - name: Adriana Kugler
-  photo: team/thomas-curtright.svg
-  info: PhD Student, Quantum Field Theory
+  photo: team/Adriana_Kugler.jpeg
+  position: Professor
+  affiliation: Georgetown University
 
 - name: Alejandro Izquierdo
-  photo: rock.jpg
-  info: See openings for more info
+  photo: team/Alejandro_Izquierdo
+  position: Deputy Director, Research Department
+  affiliation: Inter-American Development Bank
