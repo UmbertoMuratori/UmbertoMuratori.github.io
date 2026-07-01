@@ -31,7 +31,7 @@ permalink: /media/
 ## Media Coverage
 
 - [How extending unemployment benefits leads to a stronger recovery](https://www.marketplace.org/story/2020/12/10/how-extending-unemployment-benefits-leads-to-a-stronger-recovery) - Marketplace - Dec 10, 2020
-- 
+
 - [The stimulus standoff: Explain it to me](https://podcasts.apple.com/us/podcast/the-stimulus-standoff/id1042433083?i=1000487114758) - The Weeds Podcast - Vox - Aug 4, 2020
 
 - [More generous unemployment benefits lead to better jobs: study](https://thehill.com/policy/finance/510692-more-generous-unemployment-benefits-lead-to-better-jobs-study/) - The Hill - May 8, 2020
