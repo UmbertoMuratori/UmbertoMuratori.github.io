@@ -29,3 +29,5 @@ permalink: /media/
 - [¿Por qué a unas empresas les va mejor que otras? (Una hipótesis)](https://open.spotify.com/episode/0GZFTkN2zLgwL3vLKlLFDV) – Economía para antes de dormir – May 4, 2026
 
 ## Media Coverage
+
+- [More generous unemployment benefits lead to better jobs: study](https://thehill.com/policy/finance/510692-more-generous-unemployment-benefits-lead-to-better-jobs-study/) - The Hill - May 8, 2020
