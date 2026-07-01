@@ -3,18 +3,18 @@
 # Optional: email, website, scholar, github, researchgate, cv
 # Photos go in images/ or images/team/
 
-- name: George Zweig
+- name: Edoardo Briganti
   photo: team/george-zweig.svg
   info: PhD Student, Quark Model
 
-- name: Albert Hibbs
+- name: Pedro Juarros
   photo: team/albert-hibbs.svg
   info: PhD Student, Quantum Mechanics
 
-- name: Thomas Curtright
+- name: Adriana Kugler
   photo: team/thomas-curtright.svg
   info: PhD Student, Quantum Field Theory
 
-- name: "This could be you!"
+- name: Alejandro Izquierdo
   photo: rock.jpg
   info: See openings for more info
