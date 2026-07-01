@@ -34,6 +34,7 @@
     &:hover { background-color: #8c1515; color: #fff; }
   }
 
+  <!--
   &.btn-bib,
   &.btn-abstract,
   &.btn-replication {
@@ -45,7 +46,39 @@
       color: var(--accent);
     }
   }
+  -->
 
+  &.btn-bib {
+    background-color: transparent;
+    color: var(--text-secondary);
+    border-color: var(--border-color);
+    &:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+  }
+
+  &.btn-abstract {
+    background-color: cornsilk;
+    color: var(--text-secondary);
+    border-color: var(--border-color);
+    &:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+  }
+
+  &.btn-replication {
+    background-color: transparent;
+    color: var(--text-secondary);
+    border-color: var(--border-color);
+    &:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+  }
+  
+  
   &.btn-website {
     background-color: var(--accent);
     color: #fff;
