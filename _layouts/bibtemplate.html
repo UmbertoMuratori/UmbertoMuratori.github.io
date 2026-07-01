@@ -37,6 +37,11 @@
     {% if entry.abstract %}
     <button class="btn-pill btn-abstract" data-toggle-target="abs-{{ entry.key }}">Abstract</button>
     {% endif %}
+
+    {% if entry.replication %}
+    <button class="btn-pill btn-replication" data-toggle-target="rep-{{ entry.key }}">Replication</button>
+    {% endif %}
+    
   </div>
 
   {% if entry.abstract %}
