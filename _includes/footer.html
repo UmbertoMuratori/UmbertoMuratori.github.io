@@ -18,9 +18,10 @@
     <div>
       <h5>Links</h5>
       <p>
+        {% if site.links.cv and site.links.cv != "" %}<a href="{{ site.url }}{{ site.baseurl }}/{{ site.links.cv }}" class="icon-link" title="CV"><i class="ai ai-cv"></i></a>{% endif %}
+        {% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin}}"><i class="ai ai-linkedin"></i> LinkedIn</a><br>{% endif %}
         {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}"><i class="ai ai-google-scholar"></i> Google Scholar</a><br>{% endif %}
         {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}"><i class="ai ai-researchgate"></i> ResearchGate</a><br>{% endif %}
- 	      {% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin}}"><i class="ai ai-linkedin"></i> LinkedIn</a><br>{% endif %}
       </p>
     </div>
   </div>
