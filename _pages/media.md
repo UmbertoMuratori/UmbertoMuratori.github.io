@@ -21,7 +21,7 @@ permalink: /media/
 
 ## Blogs
 
-- The impacts of unemployment benefits on job match quality and labour market functioning - VoxEU - Feb 7, 2021
+- [The impacts of unemployment benefits on job match quality and labour market functioning](https://cepr.org/voxeu/columns/impacts-unemployment-benefits-job-match-quality-and-labour-market-functioning#.YB-4E3TWaLU.twitter) - VoxEU - Feb 7, 2021
 
 
 ## Podcasts
