@@ -17,7 +17,7 @@ links:
   #researchgate: "https://www.researchgate.net/profile/Umberto-Muratori"
   #orcid: ""
   twitter: "https://x.com/UmbertoMuratori"
-  #cv: "papers/Muratori_CV.pdf"  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon papers/Muratori_CV.pdf
 
 # ============================================================
 # STEP 3: Site Settings
