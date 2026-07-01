@@ -5,7 +5,6 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research
 
 <div class="research-grid">
 
