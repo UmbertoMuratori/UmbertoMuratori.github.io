@@ -29,7 +29,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/fiscal_policy.png" class="research-thumb" alt="Fiscal Policy">
 <div class="research-body">
 <h4 class="research-title">Fiscal Policy</h4>
-<p class="research-desc">Fiscal policy studies how governments use taxation, spending, borrowing, and transfers to influence economic activity, redistribute resources, provide public goods, stabilize business cycles, and support sustainable growth.</p>
+<p class="research-desc"> Fiscal policy studies how governments use taxation, spending, borrowing, and transfers to influence economic activity, redistribute resources, provide public goods, stabilize business cycles, and support sustainable growth. My research examines how fiscal policy, through government procurement contracts, shapes firm behavior and how these firm-level responses affect market structure, long-term growth and economic stability. </p>
 </div>
 </div>
 
