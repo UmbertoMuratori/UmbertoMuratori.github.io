@@ -13,8 +13,8 @@ permalink: /coauthors/
 <div class="team-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="team-photo" alt="{{ member.name }}" loading="lazy">
 <h4 class="team-name">{{ member.name }}</h4>
-<br class="team-position">{{ member.position }}</br>
-<br class="team-affiliation">{{ member.affiliation }}</br>
+<br class="team-position">{{ member.position }}
+<br class="team-affiliation">{{ member.affiliation }}
 <div class="team-links">
 {% if member.email %}<a href="mailto:{{ member.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
 {% if member.website %}<a href="{{ member.website }}" class="icon-link" title="Website"><i class="fa-solid fa-house"></i></a>{% endif %}
