@@ -36,13 +36,13 @@ analytics:
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
 nav_pages:
-  - name: about
   - name: research
   - name: publications
   - name: teaching
   - name: presentations
   - name: media
   - name: coauthors
+  - name: recognition
   #- name: software
   #- name: team
   #- name: blogs
