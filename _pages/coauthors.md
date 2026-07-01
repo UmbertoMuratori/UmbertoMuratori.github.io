@@ -12,7 +12,7 @@ permalink: /coauthors/
 {% for member in site.data.team_members %}
 <div class="team-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" class="team-photo" alt="{{ member.name }}" loading="lazy">
-<h4 class="team-name">{{ member.name }}</h4>
+<h5 class="team-name">{{ member.name }}</h5>
 <p class="team-affiliation">{{ member.affiliation }}</p>
 <div class="team-links">
 {% if member.email %}<a href="mailto:{{ member.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
