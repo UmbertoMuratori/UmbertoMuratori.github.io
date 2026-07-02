@@ -36,6 +36,7 @@ analytics:
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
 nav_pages:
+  - name: cv
   - name: research
   - name: publications
   - name: teaching
@@ -43,7 +44,6 @@ nav_pages:
   - name: media
   - name: coauthors
   - name: recognition
-  #- name: software
   #- name: team
   #- name: blogs
 
